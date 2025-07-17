@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Thanks for visiting my humble abode
-- 🌱 Me is Software Engineer | Science LEAD Silver Medallion Scholar @ Uwindsor
-- 😄 Check out my Portfolio Site Below
+- 🌱 I am Software Engineer | Diploma @ Cambrian College
 <!--
 **Daljeet-sandhu/Daljeet-sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
